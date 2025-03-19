@@ -16,7 +16,7 @@ export const eventData: EventType[] = [
     id: 'ideathon',
     title: 'TRACE BACK CODING',
     description: 'Trace Back Coding is a reverse coding challenge where you don’t get the problem statement—just the output and conditions! Your task is to analyze the given constraints, think logically, and write the correct code to match the expected output. If you love problem-solving and coding challenges, this is the ultimate test of your skills!',
-    image:  'public/images/trace.jpg', 
+    image:  'images/trace.jpg', 
     date: '2025-03-29',
     time: '10:00 AM - 2:00 PM',
     type: 'technical',
