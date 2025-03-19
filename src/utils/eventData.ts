@@ -47,7 +47,7 @@ export const eventData: EventType[] = [
     id: 'cook-with-prompt',
     title: 'PROMPT CHEF',
     description: 'Prompt Chef is a technical event where participants craft precise AI image generation prompts based on given themes. Compete individually to create the most effective prompts within a fixed time. Showcase your creativity and AI skills in this unique challenge!',
-    image: 'images/Prompt.jpg',
+    image: 'images/prompt.jpg',
     date: '2025-03-29',
     time: '2:30 PM - 4:30 PM',
     type: 'technical',
